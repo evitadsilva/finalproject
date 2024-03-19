@@ -1,2 +1,2 @@
 # finalproject
-TY final project - gigit, a gig booking web application.
+gigit - a gig booking web application.
