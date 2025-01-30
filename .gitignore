@@ -1,0 +1,16 @@
+# Dependency directories
+node_modules/
+dist/
+build/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs and debug files
+*.log
+logs/
+npm-debug.log*
+
+# Environment files
+.env
